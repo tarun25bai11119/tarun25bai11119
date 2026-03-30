@@ -18,9 +18,9 @@ I am a passionate Computer Science student specializing in **Artificial Intellig
 
 ---
 
-### 🏗️ Featured Projects
+###  Featured Projects
 
-#### 🤖 [Project Name: e.g., Auto-Blog Agent]
+#### [Auto-Blog Agent]
 *   **Description:** An AI-powered agent that researches keywords and generates SEO-optimized blog posts using LangGraph.
 *   **Tech:** Python, OpenAI, LangChain, Tavily Search.
 *   **Key Achievement:** Reduced content creation time by 80%.
@@ -28,8 +28,8 @@ I am a passionate Computer Science student specializing in **Artificial Intellig
 ---
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [www.linkedin.com/in/tarun-sengar06]
-- **Email:** [tarun.25bai11119@vitbhopal.ac.in]
+- **LinkedIn:** www.linkedin.com/in/tarun-sengar06
+- **Email:** tarun.25bai11119@vitbhopal.ac.in
 
 ---
 
