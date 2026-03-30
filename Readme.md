@@ -20,7 +20,12 @@ I am a passionate Computer Science student specializing in **Artificial Intellig
 
 ###  Featured Projects
 
-#### [Auto-Blog Agent]
+#### [ Hospital Patient Record Manager ]
+* **Description:** A robust Python-based management system designed to handle patient intake, medical history, and appointment scheduling with a focus on data integrity.
+* **Tech:** Python, SQLite/File I/O, Hash-based Security (for privacy).
+* **Key Achievement:** Optimized record retrieval time by implementing efficient data structures, ensuring 100% data consistency across sessions.
+
+#### [ Auto-Blog Agent ]
 *   **Description:** An AI-powered agent that researches keywords and generates SEO-optimized blog posts using LangGraph.
 *   **Tech:** Python, OpenAI, LangChain, Tavily Search.
 *   **Key Achievement:** Reduced content creation time by 80%.
